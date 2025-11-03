@@ -25,7 +25,6 @@
     const violinMemes = [
         'http://www.paperpetual.com/gifs/violin.gif',
         'https://media.giphy.com/media/10hfegXGKVRVNm/giphy.gif',
-        'http://www.safespeed.org.uk/forum/images/smilies/violin.gif',
         'https://kevgrig.com/minis/violin.gif',
         'https://www.sikhphilosophy.net/images/smilies/sikhsmileys/munda-violin.gif',
     ];
