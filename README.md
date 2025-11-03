@@ -38,6 +38,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+**[Try it now!](https://yourusername.github.io/MicroViolin/)**
+
+---
+
 ## 📦 Installation
 
 ### Via CDN (Recommended for Maximum Convenience)
@@ -67,7 +73,7 @@ Download `MicroViolin.js` and include it in your project:
 ### As a Service
 
 1. Someone complains about a trivial problem
-2. Send them this link: `https://yourdomain.com/microviolinjs/`
+2. Send them this link: `https://tomgould.github.io/MicroViolin/`
 3. Watch as they receive perfectly calibrated sympathy
 4. Profit (emotionally)
 
