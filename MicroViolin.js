@@ -23,16 +23,11 @@
 
     // Our precious collection of violin memes
     const violinMemes = [
+        'http://www.paperpetual.com/gifs/violin.gif',
         'https://media.giphy.com/media/10hfegXGKVRVNm/giphy.gif',
-        'https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif',
-        'https://media.giphy.com/media/13A7YlLvYVDnmU/giphy.gif',
-        'https://media.giphy.com/media/rTIXh5JftLoic/giphy.gif',
-        'https://i.imgur.com/V08FK3L.gif',
-        'https://media1.tenor.com/images/0c4d370681d5c45f5b612c8dfd3c08e5/tenor.gif',
-        'https://i.imgur.com/sLqN2RO.gif',
-        'https://media.giphy.com/media/l0HlvtIPDBCEaszKw/giphy.gif',
-        'https://i.kym-cdn.com/photos/images/original/001/018/899/936.jpg',
-        'https://i.imgflip.com/2/1bgw8t.jpg'
+        'http://www.safespeed.org.uk/forum/images/smilies/violin.gif',
+        'https://kevgrig.com/minis/violin.gif',
+        'https://www.sikhphilosophy.net/images/smilies/sikhsmileys/munda-violin.gif',
     ];
 
     // Audio instance (singleton pattern because we're FANCY)
