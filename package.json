@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/MicroViolin.git"
+    "url": "git+https://github.com/tomgould/MicroViolin.git"
   },
   "keywords": [
     "violin",
@@ -57,9 +57,9 @@
   "author": "The Sympathy Team <sympathy@microviolinjs.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/MicroViolin/issues"
+    "url": "https://github.com/tomgould/MicroViolin/issues"
   },
-  "homepage": "https://github.com/yourusername/MicroViolin#readme",
+  "homepage": "https://github.com/tomgould/MicroViolin#readme",
   "devDependencies": {
     "enterprise-middleware": "^99.99.99",
     "blockchain-integration": "^1.21.0",

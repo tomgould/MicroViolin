@@ -184,7 +184,7 @@ We review PRs regularly (when we remember to check GitHub). Here's what we look 
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/MicroViolin.git
+git clone https://github.com/tomgould/MicroViolin.git
 cd MicroViolin
 ```
 

@@ -10,8 +10,8 @@
 [![Downloads](https://img.shields.io/badge/downloads-0%2Fweek-brightgreen.svg)](https://example.com)
 [![Code Coverage](https://img.shields.io/badge/coverage-100%25*-success.svg)](https://example.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://example.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/MicroViolin/graphs/commit-activity)
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/yourusername/MicroViolin/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/tomgould/MicroViolin/graphs/commit-activity)
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/tomgould/MicroViolin/issues)
 
 > The world's smallest violin, now as a Service (SaaS)
 >
@@ -40,7 +40,7 @@
 
 ## 🚀 Live Demo
 
-**[Try it now!](https://yourusername.github.io/MicroViolin/)**
+**[Try it now!](https://tomgould.github.io/MicroViolin/)**
 
 ---
 
