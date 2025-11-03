@@ -23,10 +23,9 @@
 
     // Our precious collection of violin memes
     const violinMemes = [
-        'http://www.paperpetual.com/gifs/violin.gif',
-        'https://media.giphy.com/media/10hfegXGKVRVNm/giphy.gif',
-        'https://kevgrig.com/minis/violin.gif',
-        'https://www.sikhphilosophy.net/images/smilies/sikhsmileys/munda-violin.gif',
+        // 'https://media.giphy.com/media/10hfegXGKVRVNm/giphy.gif',
+        // 'https://kevgrig.com/minis/violin.gif',
+        // 'https://www.sikhphilosophy.net/images/smilies/sikhsmileys/munda-violin.gif',
         "https://media0.giphy.com/media/v1.Y2lkPTRkYWU5ZDczNzNrMjZ1cHc5ZmRzbWU3enh3MXQyNzZmdW93Z3FqcmJ3ZnN0cnZ4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ApgJQ015dHoPxBgNYr/giphy.gif",
         "https://media0.giphy.com/media/v1.Y2lkPTRkYWU5ZDczNzNrMjZ1cHc5ZmRzbWU3enh3MXQyNzZmdW93Z3FqcmJ3ZnN0cnZ4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SkhPpSCNFANLa/giphy.gif",
         "https://media0.giphy.com/media/v1.Y2lkPTRkYWU5ZDczNzNrMjZ1cHc5ZmRzbWU3enh3MXQyNzZmdW93Z3FqcmJ3ZnN0cnZ4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d0sWibpAwneSI/giphy.gif",
